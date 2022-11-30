@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="300px"/>
 </div>
 
-<h3>Links on websites</h3>
+<h4>Links on websites</h4>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/">
