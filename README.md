@@ -1,4 +1,3 @@
-# Jace-app
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif?cid=ecf05e47lnwxnrnbkvoeysvxbfxvpzvo79j0pfrnuyvz9d2m&rid=giphy.gif&ct=g"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
