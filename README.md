@@ -1,8 +1,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="300px"/>
+  <h2>Mikhail Chernyshov</h2>
 </div>
 
-<h4>Links on websites</h4>
+<h3>Links on websites</h3>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/">
