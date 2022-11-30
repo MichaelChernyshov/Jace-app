@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized-large.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/wGEymBvo6FUlR9bbda" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/my-code-works-runs-wGEymBvo6FUlR9bbda">via GIPHY</a></p>
 </div>
