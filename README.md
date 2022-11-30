@@ -3,9 +3,8 @@
   <h2>Mikhail Chernyshov</h2>
 </div>
 
-<h3>Links on websites:</h3>
-
 <div id="badges" align="center">
+  <h3>Links on websites:</h3>
   <a href="https://twitter.com/">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
