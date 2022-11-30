@@ -9,4 +9,8 @@
   <a href="https://www.youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+  
+  <a href="https://vk.com/michael.chernyshov">
+  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
+    </a>
 </div>
