@@ -11,6 +11,6 @@
     </a>
   
   <a href="https://vk.com/michael.chernyshov">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
+  <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
     </a>
 </div>
