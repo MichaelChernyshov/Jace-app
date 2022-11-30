@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <h3 style="display:inline-block">Links on websites:</h3>
+  <h3 style="color:green">Links on websites:</h3>
   <a href="https://twitter.com/">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
