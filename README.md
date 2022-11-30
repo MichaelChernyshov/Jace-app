@@ -3,7 +3,7 @@
   <h2>Mikhail Chernyshov</h2>
 </div>
 
-<h3>Links on websites</h3>
+<h3>Links on websites:</h3>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/">
